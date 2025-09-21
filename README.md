@@ -19,7 +19,7 @@ What can you build with these tools? Check out my latest project:
   </tr>
 </table>
 
-The libraries are maintained on a regular basis, with very short response times to any reported issues, and are deployed to the [Maven Central Repository](https://central.sonatype.com/search?q=synerset) after each release for users’ convenience.
+Libraries are maintained on a regular basis, with very short response times to any reported issues, and are deployed to the [Maven Central Repository](https://central.sonatype.com/search?q=synerset) after each release for users’ convenience.
 
 ## About Me
 
