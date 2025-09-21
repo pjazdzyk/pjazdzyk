@@ -3,7 +3,8 @@
 Welcome to my GitHub repository, and thanks for stopping by!
 
 Here you will find a variety of useful libraries tailored for software development across different engineering disciplines, with a particular focus on humid air physics and acoustics.
-What can you build with these tools? Check out my latest project:
+
+What can you build with these tools? **Check out my latest project**:
 
 <table border="0" cellpadding="5">
   <tr>
@@ -24,7 +25,7 @@ Libraries are maintained on a regular basis, with very short response times to a
 ## About Me
 
 I’m a Java **Backend** Developer with over 2.5 years of commercial experience, building microservices and distributed messaging systems with Kafka. My programming journey, however, started many years ago as a hobby, long before I began working professionally as a software developer.<br>
-In addition to my software expertise, I am a licensed engineer with 17+ years of experience in industrial HVAC and MEP projects across power generation, manufacturing, and logistics. I graduated from the Silesian Technical University, specializing in HVAC and fluid dynamics simulations (CFD), which has given me a strong foundation in problem-solving and system design that I now bring to my software projects.<br>
+In addition to my software expertise, I am a licensed engineer with 17+ years of experience in industrial HVAC and MEP projects across power generation, manufacturing, and logistics. I graduated from the Silesian Technical University, specializing in HVAC and fluid dynamics simulations (CFD), which has given me a strong foundation in problem-solving, teamwork and project management that I now bring to my software projects.<br>
 
 ## Skills & Technologies
 
