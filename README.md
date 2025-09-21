@@ -77,4 +77,3 @@ In addition to my software expertise, I am a licensed engineer with 17+ years of
          alt="linkedin logo" />
   </a>
 </div>
-
