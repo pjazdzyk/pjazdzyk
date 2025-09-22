@@ -15,6 +15,7 @@ What can you build with these tools? **Check out my latest project**:
     </td>
     <td>
       <a href="https://energyflowx.com">⇒ Go to EFX Website ⇐</a><br><br>
+      <a href="https://demo.energyflowx.com">⇒ Go to EFX Demo API ⇐</a>
     </td>
   </tr>
 </table>
