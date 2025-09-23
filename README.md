@@ -65,7 +65,7 @@ In addition to my software expertise, I am a licensed engineer with 17+ years of
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=pjazdzyk&theme=dark&show_icons=true&hide_border=true&count_private=true&hide_rank=true" alt="pjazdzyk's GitHub Stats" /><img src="https://streak-stats.demolab.com?user=pjazdzyk&theme=dark&hide_border=true" alt="pjazdzyk's GitHub Stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjazdzyk&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="pjazdzyk's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=pjazdzyk&theme=dark&show_icons=true&hide_border=true&count_private=true&hide_rank=true" alt="pjazdzyk's GitHub Stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjazdzyk&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="pjazdzyk's GitHub Stats" />
 
 ## Connect with Me
 
