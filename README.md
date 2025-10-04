@@ -10,7 +10,7 @@ What can you build with these tools? **Check out my latest project**:
   <tr>
     <td>
       <a href="https://energyflowx.com">
-        <img src="https://github.com/pjazdzyk/energy-flow-x-demo/blob/master/assets/images/logo-efx.png" width="250"/>
+        <img src="https://github.com/pjazdzyk/energy-flow-x-demo/blob/master/assets/images/efx-og-default.png" width="350"/>
       </a>
     </td>
     <td>
@@ -69,7 +69,7 @@ In addition to my software expertise, I am a licensed engineer with 17+ years of
 
 ## Connect with Me
 
-<div align="left">
+<div align="left" style="text-decoration: none">
   <a href="https://www.linkedin.com/in/pjazdzyk/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" 
          width="52" 
@@ -77,3 +77,4 @@ In addition to my software expertise, I am a licensed engineer with 17+ years of
          alt="linkedin logo" />
   </a>
 </div>
+
