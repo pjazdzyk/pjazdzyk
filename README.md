@@ -24,7 +24,7 @@ Libraries are maintained on a regular basis, with very short response times to a
 
 ## About Me
 
-I’m a Java **Backend** Developer with over 2.5 years of commercial experience, building microservices and distributed messaging systems with Kafka. My programming journey, however, started many years ago as a hobby, long before I began working professionally as a software developer.<br>
+I’m a Java **Backend** Developer with 3 years of commercial experience, building microservices and distributed messaging systems with Kafka. My programming journey, however, started many years ago as a hobby, long before I began working professionally as a software developer.<br>
 In addition to my software expertise, I am a licensed engineer with 17+ years of experience in industrial HVAC and MEP projects across power generation, manufacturing, and logistics. I graduated from the Silesian Technical University, specializing in HVAC and fluid dynamics simulations (CFD), which has given me a strong foundation in problem-solving, teamwork and project management that I now bring to my software projects.<br>
 
 ## Skills & Technologies
