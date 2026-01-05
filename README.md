@@ -55,18 +55,6 @@ In addition to my software expertise, I am a licensed engineer with 17+ years of
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="githubactions logo"  />
 </div>
 
-## Top Projects
-
-[![energy-flow-x-demo](https://github-readme-stats.vercel.app/api/pin/?username=pjazdzyk&repo=energy-flow-x-demo&theme=dark)](https://github.com/pjazdzyk/energy-flow-x-demo)
-[![unitility](https://github-readme-stats.vercel.app/api/pin/?username=pjazdzyk&repo=unitility&theme=dark)](https://github.com/pjazdzyk/unitility)
-[![hvac-engine](https://github-readme-stats.vercel.app/api/pin/?username=pjazdzyk&repo=hvac-engine&theme=dark)](https://github.com/pjazdzyk/hvac-engine)
-[![brent-dekker-solver](https://github-readme-stats.vercel.app/api/pin/?username=pjazdzyk&repo=brent-dekker-solver&theme=dark)](https://github.com/pjazdzyk/brent-dekker-solver)
-[![sound-dampening-analyzer](https://github-readme-stats.vercel.app/api/pin/?username=pjazdzyk&repo=sound-dampening-analyzer&theme=dark)](https://github.com/pjazdzyk/sound-dampening-analyzer)
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=pjazdzyk&theme=dark&show_icons=true&hide_border=true&count_private=true&hide_rank=true" alt="pjazdzyk's GitHub Stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjazdzyk&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="pjazdzyk's GitHub Stats" />
-
 ## Connect with Me
 
 <div align="left" style="text-decoration: none">
