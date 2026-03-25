@@ -55,6 +55,9 @@ In addition to my software expertise, I am a licensed engineer with 17+ years of
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="githubactions logo"  />
 </div>
 
+## Articles & Technical Reports
+https://pjazdzyk.github.io/articles/
+
 ## Connect with Me
 
 <div align="left" style="text-decoration: none">
