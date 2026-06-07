@@ -1,5 +1,5 @@
 <a href="https://energyflowx.com">
-  <img src="https://raw.githubusercontent.com/pjazdzyk/energy-flow-x-demo/master/assets/images/efx_reddit_banner.png" alt="EnergyFlowX, Engineering Calculations" width="100%"/>
+  <img src="https://raw.githubusercontent.com/pjazdzyk/energy-flow-x-docu/master/assets/images/efx_reddit_banner.png" alt="EnergyFlowX, Engineering Calculations" width="100%"/>
 </a>
 
 ## Welcome 🤝
@@ -9,6 +9,7 @@ Thanks for stopping by. I'm **Piotr Jażdżyk**, a licensed HVAC engineer and ba
 **Latest project, [EnergyFlowX](https://energyflowx.com):** a professional web platform for thermophysical property analysis, HVAC process design, and fluid mechanics, powered by the engineering libraries below.
 
 - 🌐 Platform: **[energyflowx.com](https://energyflowx.com)**
+- 📚 Documentation: **[energy-flow-x-docu](https://github.com/pjazdzyk/energy-flow-x-docu)**
 - ✍️ Articles and write-ups: **[energyflowx.com/articles](https://energyflowx.com/articles)**
 
 ## Skills & Technologies
