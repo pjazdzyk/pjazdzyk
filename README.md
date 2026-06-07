@@ -1,71 +1,57 @@
-## Welcome! 🤝
+<a href="https://energyflowx.com">
+  <img src="https://raw.githubusercontent.com/pjazdzyk/energy-flow-x-demo/master/assets/images/efx_reddit_banner.png" alt="EnergyFlowX, Engineering Calculations" width="100%"/>
+</a>
 
-Welcome to my GitHub repository, and thanks for stopping by!
+## Welcome 🤝
 
-Here you will find a variety of useful libraries tailored for software development across different engineering disciplines, with a particular focus on humid air physics and acoustics.
+Thanks for stopping by. I'm **Piotr Jażdżyk**, a licensed HVAC engineer and backend software developer. This is where my engineering and software worlds meet: a set of libraries and tools for thermophysics, fluid mechanics, and HVAC, built carefully and from first principles.
 
-What can you build with these tools? **Check out my latest project**:
+**Latest project, [EnergyFlowX](https://energyflowx.com):** a professional web platform for thermophysical property analysis, HVAC process design, and fluid mechanics, powered by the engineering libraries below.
 
-<table border="0" cellpadding="5">
-  <tr>
-    <td>
-      <a href="https://energyflowx.com">
-        <img src="https://github.com/pjazdzyk/energy-flow-x-demo/blob/master/assets/images/efx-og-default.png" width="350"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://energyflowx.com">⇒ Go to EFX Website ⇐</a><br><br>
-      <a href="https://demo.energyflowx.com">⇒ Go to EFX Demo API ⇐</a>
-    </td>
-  </tr>
-</table>
-
-Libraries are maintained on a regular basis, with very short response times to any reported issues, and are deployed to the [Maven Central Repository](https://central.sonatype.com/search?q=synerset) after each release for users’ convenience.
-
-## About Me
-
-I’m a Java **Backend** Developer with 3 years of commercial experience, building microservices and distributed messaging systems with Kafka. My programming journey, however, started many years ago as a hobby, long before I began working professionally as a software developer.<br>
-In addition to my software expertise, I am a licensed engineer with 17+ years of experience in industrial HVAC and MEP projects across power generation, manufacturing, and logistics. I graduated from the Silesian Technical University, specializing in HVAC and fluid dynamics simulations (CFD), which has given me a strong foundation in problem-solving, teamwork and project management that I now bring to my software projects.<br>
+- 🌐 Platform: **[energyflowx.com](https://energyflowx.com)**
+- ✍️ Articles and write-ups: **[energyflowx.com/articles](https://energyflowx.com/articles)**
 
 ## Skills & Technologies
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="40" alt="apachemaven logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="githubactions logo"  />
+**Backend** · Java · Maven · Spring Boot · Quarkus · JUnit / Mockito · RestAssured · REST API · PostgreSQL · Apache Kafka
+**Frontend** · JavaScript · Vue 3 · Quasar · HTML · CSS
+**Infrastructure** · Docker · Kubernetes · GitHub Actions
+**AI & local inference** · Local LLMs · LM Studio · agentic workflows
+
+<div>
+  <img src="https://skillicons.dev/icons?i=java,maven,spring,kafka,postgres,docker,kubernetes,githubactions" alt="backend & infrastructure" />
+  <img src="https://skillicons.dev/icons?i=js,vue,html,css,git" alt="frontend" />
 </div>
 
-## Articles & Technical Reports
-https://pjazdzyk.github.io/articles/
+## About Me
+
+I'm a licensed engineer (MSc Eng) with **17+ years in industrial HVAC and MEP design** across power generation, manufacturing, and logistics, and a **backend software developer with 3+ years of commercial experience** building microservices and distributed, Kafka-based messaging systems. I started programming as a hobby long before it became part of my day job, which is probably why I still enjoy it.
+
+I graduated from the **Silesian University of Technology**, Faculty of Environmental Engineering, specialising in HVAC and **computational fluid dynamics (CFD)**. That background, equal parts physics, problem-solving, and project delivery, is what I now bring to software: I designed, built, and maintain the entire EnergyFlowX stack myself, from the equation-of-state engines up through the REST services to the Vue frontend.
+
+I try to be honest about what I know and what I don't. I'd rather ship something correct and well-tested than oversell it.
+
+Lately I've been **deeply interested in AI and local inference**: running open-weight models on my own hardware, experimenting with LM Studio and local LLM tooling, and building agentic workflows. I keep it well away from the calculation path, though. Engineering numbers come from documented equations, not from a model's best guess.
+
+## Engineering Library Ecosystem
+
+EnergyFlowX runs on a purpose-built family of libraries, each designed, written, and tested from scratch. One is fully open source, the rest are private and power the platform from the inside.
+
+| Library | Role | Availability |
+|---|---|---|
+| **[Unitility](https://github.com/pjazdzyk/unitility)** | Physical quantities and units-of-measure framework. Typed `Temperature`, `Pressure`, `MassFlow` and friends, with safe conversion across the whole stack. | **Open source** |
+| **numenor-math** | Numerical foundation: robust root-finders (modified Brent-Dekker, Newton-Raphson, multivariate Newton), line search, fixed-point iteration, and sparse linear algebra. | Private |
+| **flow-symphony** | Universal, domain-generic steady-state hydraulic and pipe-network solver. Solves arbitrary topologies for incompressible and compressible fluids using a Global Gradient Algorithm. | Private |
+| **hvac-engine-pro** | Psychrometrics and IAPWS thermophysics: humid air, water, steam, ice, and the HVAC process physics behind the platform. | Private |
+
+My open-source libraries are published to the [Maven Central Repository](https://central.sonatype.com/search?q=synerset) after each release, with quick turnaround on reported issues.
 
 ## Connect with Me
 
-<div align="left" style="text-decoration: none">
+<div align="left">
   <a href="https://www.linkedin.com/in/pjazdzyk/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" 
-         width="52" 
-         height="40" 
-         alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
 </div>
 
+[![GitHub Sponsor Card](https://github.com/sponsors/pjazdzyk/card)](https://github.com/sponsors/pjazdzyk)
