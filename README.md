@@ -11,6 +11,10 @@ Thanks for stopping by. I'm **Piotr Jażdżyk**, a licensed HVAC engineer and ba
 - 🌐 Platform: **[energyflowx.com](https://energyflowx.com)**
 - 📚 Documentation: **[energy-flow-x-docu](https://github.com/pjazdzyk/energy-flow-x-docu)**
 - ✍️ Articles and write-ups: **[energyflowx.com/articles](https://energyflowx.com/articles)**
+<br>
+<div>
+  &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-2596be?style=for-the-badge&logo=githubsponsors&logoColor=white" height="40" alt="Sponsor" />
+</div>
 
 ## Skills & Technologies
 
@@ -70,11 +74,8 @@ My open-source libraries are published to the [Maven Central Repository](https:/
 
 ## Connect with Me
 
-<div align="left">
+<div>
   <a href="https://www.linkedin.com/in/pjazdzyk/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://github.com/sponsors/pjazdzyk" target="_blank">
-    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" height="40" alt="Sponsor" />
   </a>
 </div>
