@@ -39,7 +39,7 @@ EnergyFlowX runs on a purpose-built family of libraries, each designed, written,
 
 <table>
   <tr>
-    <th width="210">Library</th>
+    <th width="168">Library</th>
     <th>Role</th>
     <th width="110">Availability</th>
   </tr>
@@ -73,6 +73,7 @@ My open-source libraries are published to the [Maven Central Repository](https:/
   <a href="https://www.linkedin.com/in/pjazdzyk/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
+  <a href="https://github.com/sponsors/pjazdzyk" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" height="40" alt="Sponsor" />
+  </a>
 </div>
-
-[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/pjazdzyk)
