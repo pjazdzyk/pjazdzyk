@@ -37,12 +37,33 @@ Lately I've been **deeply interested in AI and local inference**: running open-w
 
 EnergyFlowX runs on a purpose-built family of libraries, each designed, written, and tested from scratch. One is fully open source, the rest are private and power the platform from the inside.
 
-| Library | Role | Availability |
-|---|---|---|
-| **[Unitility](https://github.com/pjazdzyk/unitility)** | Physical quantities and units-of-measure framework. Typed `Temperature`, `Pressure`, `MassFlow` and friends, with safe conversion across the whole stack. | **Open source** |
-| **numenor-math** | Numerical foundation: robust root-finders (modified Brent-Dekker, Newton-Raphson, multivariate Newton), line search, fixed-point iteration, and sparse linear algebra. | Private |
-| **flow-symphony** | Universal, domain-generic steady-state hydraulic and pipe-network solver. Solves arbitrary topologies for incompressible and compressible fluids using a Global Gradient Algorithm. | Private |
-| **hvac-engine-pro** | Psychrometrics and IAPWS thermophysics: humid air, water, steam, ice, and the HVAC process physics behind the platform. | Private |
+<table>
+  <tr>
+    <th width="210">Library</th>
+    <th>Role</th>
+    <th width="110">Availability</th>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/pjazdzyk/unitility">Unitility</a></strong></td>
+    <td>Physical quantities and units-of-measure framework. Typed <code>Temperature</code>, <code>Pressure</code>, <code>MassFlow</code> and friends, with safe conversion across the whole stack.</td>
+    <td><strong>Open source</strong></td>
+  </tr>
+  <tr>
+    <td><strong>numenor-math</strong></td>
+    <td>Numerical foundation: robust root-finders (modified Brent-Dekker, Newton-Raphson, multivariate Newton), line search, fixed-point iteration, and sparse linear algebra.</td>
+    <td>Private</td>
+  </tr>
+  <tr>
+    <td><strong>flow-symphony</strong></td>
+    <td>Universal, domain-generic steady-state hydraulic and pipe-network solver. Solves arbitrary topologies for incompressible and compressible fluids using a Global Gradient Algorithm.</td>
+    <td>Private</td>
+  </tr>
+  <tr>
+    <td><strong>hvac-engine-pro</strong></td>
+    <td>Psychrometrics and IAPWS thermophysics: humid air, water, steam, ice, and the HVAC process physics behind the platform.</td>
+    <td>Private</td>
+  </tr>
+</table>
 
 My open-source libraries are published to the [Maven Central Repository](https://central.sonatype.com/search?q=synerset) after each release, with quick turnaround on reported issues.
 
