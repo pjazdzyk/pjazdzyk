@@ -54,4 +54,4 @@ My open-source libraries are published to the [Maven Central Repository](https:/
   </a>
 </div>
 
-[![GitHub Sponsor Card](https://github.com/sponsors/pjazdzyk/card)](https://github.com/sponsors/pjazdzyk)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/pjazdzyk)
