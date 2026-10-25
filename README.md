@@ -1,5 +1,5 @@
 <a href="https://energyflowx.com">
-  <img src="https://raw.githubusercontent.com/pjazdzyk/energy-flow-x-docu/master/assets/images/efx_reddit_banner.png" alt="EnergyFlowX, Engineering Calculations" width="100%"/>
+  <img src="https://raw.githubusercontent.com/pjazdzyk/energy-flow-x-info/master/assets/images/efx_reddit_banner.png" alt="EnergyFlowX, Engineering Calculations" width="100%"/>
 </a>
 
 ## Welcome 🤝
@@ -9,7 +9,8 @@ Thanks for stopping by. I'm **Piotr Jażdżyk**, a licensed HVAC engineer and ba
 **Latest project, [EnergyFlowX](https://energyflowx.com):** a professional web platform for thermophysical property analysis, HVAC process design, and fluid mechanics, powered by the engineering libraries below.
 
 - 🌐 Platform: **[energyflowx.com](https://energyflowx.com)**
-- 📚 Documentation: **[energy-flow-x-docu](https://github.com/pjazdzyk/energy-flow-x-info)**
+- 📚 Product showcase: **[energy-flow-x-info](https://github.com/pjazdzyk/energy-flow-x-info)**
+- 🤖 Claude plugin for the EnergyFlowX MCP server: **[energy-flow-x-mcp](https://github.com/pjazdzyk/energy-flow-x-mcp)**
 - ✍️ Articles and write-ups: **[energyflowx.com/articles](https://energyflowx.com/articles)**
 <br>
 <div>
@@ -50,7 +51,7 @@ EnergyFlowX runs on a purpose-built family of libraries, each designed, written,
   </tr>
   <tr>
     <td><strong><a href="https://github.com/pjazdzyk/unitility">Unitility</a></strong></td>
-    <td>Physical quantities and units-of-measure framework. Typed <code>Temperature</code>, <code>Pressure</code>, <code>MassFlow</code> and friends, with safe conversion across the whole stack.</td>
+    <td>Physical quantities and units-of-measure framework. Typed <code>Temperature</code>, <code>Pressure</code>, <code>MassFlow</code> and friends, with type-checked conversion across the whole stack.</td>
     <td><strong>Open source</strong></td>
   </tr>
   <tr>
@@ -59,13 +60,23 @@ EnergyFlowX runs on a purpose-built family of libraries, each designed, written,
     <td>Private</td>
   </tr>
   <tr>
+    <td><strong>eos-engine</strong></td>
+    <td>The fluid properties: equations of state and transport properties for water and steam (IAPWS formulations), dry and humid air, refrigerants, industrial gases, natural gas and coolants.</td>
+    <td>Private</td>
+  </tr>
+  <tr>
     <td><strong>flow-symphony</strong></td>
-    <td>Universal, domain-generic steady-state hydraulic and pipe-network solver. Solves arbitrary topologies for incompressible and compressible fluids using a Global Gradient Algorithm.</td>
+    <td>Domain-generic steady-state hydraulic and pipe-network solver for liquids, by a global gradient method, with balancing and regulators.</td>
     <td>Private</td>
   </tr>
   <tr>
     <td><strong>hvac-engine-pro</strong></td>
-    <td>Psychrometrics and IAPWS thermophysics: humid air, water, steam, ice, and the HVAC process physics behind the platform.</td>
+    <td>The HVAC process physics behind the platform: heating, cooling with condensate, mixing, heat recovery and humidification, over the eos-engine fluids.</td>
+    <td>Private</td>
+  </tr>
+  <tr>
+    <td><strong>solar-engine</strong></td>
+    <td>Terrestrial solar and photovoltaic physics: irradiance, transposition, shading and PV yield.</td>
     <td>Private</td>
   </tr>
 </table>
