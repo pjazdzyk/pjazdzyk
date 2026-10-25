@@ -66,7 +66,7 @@ EnergyFlowX runs on a purpose-built family of libraries, each designed, written,
   </tr>
   <tr>
     <td><strong>flow-symphony</strong></td>
-    <td>Domain-generic steady-state hydraulic and pipe-network solver for liquids, by a global gradient method, with balancing and regulators.</td>
+    <td>Domain-generic steady-state pipe-network solver for liquids and gases, by a global gradient method, with balancing and regulators.</td>
     <td>Private</td>
   </tr>
   <tr>
