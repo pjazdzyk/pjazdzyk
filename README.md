@@ -9,7 +9,7 @@ Thanks for stopping by. I'm **Piotr Jażdżyk**, a licensed HVAC engineer and ba
 **Latest project, [EnergyFlowX](https://energyflowx.com):** a professional web platform for thermophysical property analysis, HVAC process design, and fluid mechanics, powered by the engineering libraries below.
 
 - 🌐 Platform: **[energyflowx.com](https://energyflowx.com)**
-- 📚 Documentation: **[energy-flow-x-docu](https://github.com/pjazdzyk/energy-flow-x-docu)**
+- 📚 Documentation: **[energy-flow-x-docu](https://github.com/pjazdzyk/energy-flow-x-info)**
 - ✍️ Articles and write-ups: **[energyflowx.com/articles](https://energyflowx.com/articles)**
 <br>
 <div>
